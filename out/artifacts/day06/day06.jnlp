@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="day06.jnlp">
+  <information>
+    <title>day06</title>
+    <vendor>Unknown</vendor>
+    <description>day06</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="day06.jar" size="118651" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="600" height="400" main-class="sample.Main"  name="day06" />
+  <update check="background"/>
+</jnlp>
